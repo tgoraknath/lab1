@@ -6,91 +6,98 @@
         jumboMode="true"
         revision="23.0.3"
         sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_1e2f9fa94ef43f706dbcd74d40095dd7f1c04460/classes.dex" />
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_1e2f9fa94ef43f706dbcd74d40095dd7f1c04460/classes.dex" />
     </item>
     <item
         jar="/Users/gtulla/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_516ca93e1870e97782acc8b807bc26899d1a8be0/classes.dex" />
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_516ca93e1870e97782acc8b807bc26899d1a8be0/classes.dex" />
     </item>
     <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/exploded-aar/jp.wasabeef/picasso-transformations/2.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_3d4013f51e7b4cfda8b86e4b73802fa8cbdd2729/classes.dex" />
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.wasabeef-picasso-transformations-2.1.0_c2e2553604f5bd449b5cb78ebdee4bcee1b94e63/classes.dex" />
     </item>
     <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_ed2863fc052287e9367ef15d8ff453a1c8d97ad6/classes.dex" />
+        sha1="9a7625df3647c829e0617ee4c9fd3100edb71a30">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_960ff2f764e98a7022cddd63fbd5e405d4665469/classes.dex" />
     </item>
     <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_52267c0c82cf375bf492f50531e371a5d0602639/classes.dex" />
-    </item>
-    <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="b44cd05186111bbd4faa77ba8607d0b42c66d6b1">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff2dcb35df30c1db9ddf09ed0825963b922a8b1a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_d03fe569447442a14b05c9d628005e8bbda4f188/classes.dex" />
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_6d5e27f55d1c97720070b2df1ad9d75e2e882232/classes.dex" />
     </item>
     <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="5e5f27941ed4d9aaa78aab27377fa9e3b289f36d">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4dcfc4494fa76e073a44880f6e64a27859b45803/classes.dex" />
+        sha1="9587b1cd0fb823b00d22bfdcc3ebd0556bc2c928">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_490dff2e3e72776f73d75ad2e015e5c8008ce418/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d4e02085432861494262d6a028e53f3da05fc30d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_3217d50f9afc8ae5f0aa86585608033621bde6c7/classes.dex" />
     </item>
     <item
         jar="/Users/gtulla/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_69cba4b101b6c564213234a664a57b851805632a/classes.dex" />
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_69cba4b101b6c564213234a664a57b851805632a/classes.dex" />
     </item>
     <item
         jar="/Users/gtulla/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_20a7e56c72f15e725f2fa536fe239cfbc2ded032/classes.dex" />
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_20a7e56c72f15e725f2fa536fe239cfbc2ded032/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_7aa23721e180b5430001c864fdb0c07ee57ab6d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_7271311b178e1698da13e16c62739255e254c16a/classes.dex" />
     </item>
     <item
         jar="/Users/gtulla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_ff3cfd5c76b347a5c1fd6ac5f9f6fca2dd309c79/classes.dex" />
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_ff3cfd5c76b347a5c1fd6ac5f9f6fca2dd309c79/classes.dex" />
     </item>
     <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jar="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_c2e4534a545704dbec157edb023415f441b77d2f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/Users/gtulla/AndroidStudioProjects/MovieFlicks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f457c16748eacfa1cc2cb731f895532cf7749f12/classes.dex" />
+        <dex dex="/Users/gtulla/AndroidStudioProjects/lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_75ea4e8325f17936be956252f21e2013c9fb5b65/classes.dex" />
     </item>
 
 </items>
